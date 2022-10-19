@@ -39,6 +39,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ash44444&show_icons=true&locale=en&layout=compact" alt="ash44444" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ash44444&show_icons=true&locale=en" alt="ash44444" /></p>
+<p>&nbsp;<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbootcamp.ce.ucf.edu%2Fblog%2Ffull-stack-developer-skills%2F&psig=AOvVaw1xGj3dElySlHdSLmaj3-fm&ust=1666258391238000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNCerr3-6_oCFQAAAAAdAAAAABAD" alt="ash44444" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ash44444&" alt="ash44444" /></p>
